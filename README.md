@@ -10,9 +10,9 @@ This notebook implements a mini BERT encoder (Transformer encoder stack) from sc
 
 ## Model details
 - Layers: 4 encoder layers
-- Hidden size: 256
-- Heads: 4
-- FFN dim: 512
+- Hidden size: 384
+- Heads: 6
+- FFN dim: 1536
 - Max seq len: 128
 
 ## Training
